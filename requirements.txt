@@ -1,0 +1,4 @@
+panel
+jupyter-panel-proxy
+pandas
+plotly
