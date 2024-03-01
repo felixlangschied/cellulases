@@ -4,5 +4,6 @@ channels:
 
 packages:
 - jupyter-panel-proxy
+- panel
 - pandas
 - plotly 
