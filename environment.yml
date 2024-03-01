@@ -1,9 +1,5 @@
-channels:
-- conda-forge
-- plotly 
-
-packages:
-- jupyter-panel-proxy
-- panel
-- pandas
-- plotly
+dependencies:
+  - pyviz::jupyter-panel-proxy
+  - panel
+  - plotly::plotly
+  - pandas
