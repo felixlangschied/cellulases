@@ -1,5 +1,0 @@
-dependencies:
-  - pyviz::jupyter-panel-proxy
-  - panel
-  - plotly::plotly
-  - pandas
