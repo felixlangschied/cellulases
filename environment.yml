@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+- plotly 
+
+packages:
+- jupyter-panel-proxy
+- pandas
+- plotly 
